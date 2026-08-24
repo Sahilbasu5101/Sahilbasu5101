@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sahil Basu — a second-year B.Tech IT student at BPIT, Delhi, with a strong foundation in Data Structures and Algorithms. I enjoy solving complex problems and have solved 360+ coding questions across platforms, including 250+ on LeetCode. I’m passionate about building real-world applications using full-stack technologies like JavaScript, Node.js, and MongoDB. I’ve also won 1st place in the TechSprint Hackathon, which reflects my ability to build impactful solutions under pressure. Currently, I’m focused on improving my development skills and looking for opportunities to contribute to meaningful software projects.
+Hi, I’m Sahil Basu — a Third-year B.Tech IT student at BPIT, Delhi, with a strong foundation in Data Structures and Algorithms. I enjoy solving complex problems and have solved 500+ coding questions across platforms, including 400+ on LeetCode. I’m passionate about building real-world applications using full-stack technologies like JavaScript, Node.js, and MongoDB. I’ve also won 1st place in the TechSprint Hackathon, which reflects my ability to build impactful solutions under pressure. Currently, I’m focused on improving my development skills and looking for opportunities to contribute to meaningful software projects.
 
 
 ## 🌐 Socials:
