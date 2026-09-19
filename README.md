@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="./IMPORTANT_Use_the_uploaded_pa%20(1).mp4" width="980" autoplay loop muted playsinline></video>
+  <img src="./banner.gif" width="980" alt="Animated coding profile banner" />
 </p>
 
 # 💫 About Me:
